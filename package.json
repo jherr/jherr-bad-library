@@ -1,15 +1,12 @@
 {
   "name": "jherr-bad-library",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "main": "index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jherr/jherr-bad-library.git"
-  },
+  "repository": "github:jherr/jherr-bad-library",
   "keywords": [],
   "author": "",
   "license": "ISC",
